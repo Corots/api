@@ -1,0 +1,7 @@
+# Created by pytest automatically.
+/venv
+/weather/config/file.env
+/tests/my_account.session
+*.pyc
+/.vscode
+*.service
